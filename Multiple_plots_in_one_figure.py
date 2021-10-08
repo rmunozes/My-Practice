@@ -31,9 +31,9 @@ print('y is{long}\g_values is{gravity}'.format(long=y, gravity=g_values))
 Grade_of_difficult = int(input('what do you think is grade of difficult of this program [0-5]?'))
 
 if Grade_of_difficult > 2:
-    print('ohh my god, with the value of {} you are more foolish that DONALD TRUMP '.format(Grade_of_difficult))
+    print('ohh my god, with the value of {} you are more foolish than DONALD TRUMP '.format(Grade_of_difficult))
 else:
-    print('not bad for you ... baby coder')
+    print('not bad for you ... Baby coder')
 print(""".
 .
 .""")
